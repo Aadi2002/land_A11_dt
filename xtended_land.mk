@@ -26,7 +26,7 @@ $(call inherit-product, vendor/xtended/config/common_full_phone.mk)
 TARGET_ARCH := arm64
 
 # Bootanimation
-TARGET_BOOT_ANIMATION_RES := 720
+TARGET_BOOT_ANIMATION_RES := 1080
 
 # Inherit from land device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)

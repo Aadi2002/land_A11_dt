@@ -128,3 +128,4 @@ persist.sys.wfd.virtual=0
 
 # Wifi
 wifi.interface=wlan0
+
